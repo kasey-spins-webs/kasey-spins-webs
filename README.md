@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Kasey, an aspiring Full Stack Web Developer based in California.
 
-As a child, my dream was to be a video game developer, and I've since shifted more into learning how to create real-world applications or websites. I am currently working on strengthening my skills through freeCodeCamp's Full Stack Developer Curriculum, I've completed my Responsive Web Design Certification and am now working on my JavaSciprt Certification ✨
+As a child, my dream was to be a video game developer, and I've since shifted more into learning how to create real-world applications or websites. I am currently working on strengthening my skills through freeCodeCamp's Full Stack Developer Curriculum, I've completed my Responsive Web Design Certification and am now working on my JavaScript Certification ✨
 
 As I'm still newer to this scene, I am taking my time to refine what I know so I can start fleshing out the ideas I have in my head, including a personal website, restaurant saver/tracker, a recipe follower, and real-time monthly calendar for the desktop to name a few 😄
 
